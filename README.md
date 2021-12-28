@@ -2,8 +2,16 @@
 
 Discord bot to send automated messages to groups, based on pyhton CLI.
 
-## **ID List Dev**
-List of discord group channel IDs, that can be dynamically changed without stopping the execution of the CLI.
+```
+id_list_dev.txt
 
-## **Message Dev**
+List of discord group channel IDs, 
+that can be dynamically changed without stopping the execution of the CLI.
+```
+
+```
+message_dev.txt  
+
 Message to send, can be changed dynamically without stopping the execution of the CLI.
+```
+
